@@ -1,1 +1,1 @@
-# Sample-repo
+This is a smaple repo
